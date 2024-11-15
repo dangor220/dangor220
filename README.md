@@ -4,4 +4,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=CB504C&center=true&width=820&lines=I'm%20a%20frontend%20developer)](https://git.io/typing-svg)
 
 
-![Gordeev Danil](https://dangor220.github.io/) `#E2007A`
+![#E2007A](https://dangor220.github.io/) `Gordeev Danil`
